@@ -1,0 +1,13 @@
+C:\Users\mandy\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.exe
+C:\Users\mandy\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.deps.json
+C:\Users\mandy\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.runtimeconfig.json
+C:\Users\mandy\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.runtimeconfig.dev.json
+C:\Users\mandy\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.dll
+C:\Users\mandy\repos\MethodExercise\MethodExercise\bin\Debug\netcoreapp3.1\MethodExercise.pdb
+C:\Users\mandy\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.csprojAssemblyReference.cache
+C:\Users\mandy\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.AssemblyInfoInputs.cache
+C:\Users\mandy\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.AssemblyInfo.cs
+C:\Users\mandy\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.csproj.CoreCompileInputs.cache
+C:\Users\mandy\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.dll
+C:\Users\mandy\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.pdb
+C:\Users\mandy\repos\MethodExercise\MethodExercise\obj\Debug\netcoreapp3.1\MethodExercise.genruntimeconfig.cache
